@@ -31,3 +31,4 @@
 /Users/vyth/Desktop/personalProject1/PrototypeBackend/ChatBackend/obj/Debug/net10.0/ChatBackend.pdb
 /Users/vyth/Desktop/personalProject1/PrototypeBackend/ChatBackend/obj/Debug/net10.0/ChatBackend.genruntimeconfig.cache
 /Users/vyth/Desktop/personalProject1/PrototypeBackend/ChatBackend/obj/Debug/net10.0/ref/ChatBackend.dll
+/Users/vyth/Desktop/personalProject1/PrototypeBackend/ChatBackend/obj/Debug/net10.0/ChatBackend.sourcelink.json
